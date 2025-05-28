@@ -1,4 +1,4 @@
 baseURL = 'http://hugo.marcuschiu.com/'
 languageCode = 'en-us'
 title = 'Bare Metal Thoughts'
-theme = 'my-github-style'
+theme = 'marcus-github-style'
